@@ -1,0 +1,40 @@
+.aboutme{   
+    margin: 0 ;
+    background-image: url(https://t4.ftcdn.net/jpg/02/62/04/71/360_F_262047156_Hy2QtNB52oR2DETOAcjIjB3FhaqCBjUI.jpg);
+    background-size: cover;
+}
+
+
+
+.bio{
+
+width: 1000px;
+margin-left: 190px;
+margin-bottom: 20px;
+padding-top: 70px;
+color: #d9d5ba; 
+
+}
+
+
+.bio2{
+width: 1000px;
+margin-left: 190px;
+color: #d9d5ba;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+}
+
+
+.btn-aboutme{
+    border-style: hidden;
+    background-color: #ffffff;
+    color:black;
+    margin-left: 190px;
+    margin-top: 30px;
+    margin-bottom: 150px;
+    transition: 1s;
+}
+
+.btn-aboutme:hover{
+font-size: 22px;
+}

@@ -1,0 +1,39 @@
+.main{
+background-image: url(https://img.freepik.com/free-vector/grunge-paper-background_1048-10026.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1724198400&semt=ais_hybrid);
+background-size: cover;
+padding-top: 150px;
+padding-bottom: 150px;
+}
+
+.info1{
+    
+    font-size: 50px;
+    padding-left: 200px;
+}
+
+.info2{
+    font-size: 30px;
+    padding-left: 200px;
+    padding-top: 20px;
+}
+
+.info-btn{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 200px; 
+    margin-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    transition: 1s;
+}
+
+
+.info-btn:hover{
+    font-size: 22px;
+}
+
+.img{
+    margin-top: 56px;
+    height: 500px;
+    position: absolute;
+    margin-left: 820px;
+}

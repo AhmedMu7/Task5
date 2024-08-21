@@ -1,0 +1,79 @@
+.footer {
+    background-image: url(https://img.freepik.com/free-vector/grunge-paper-background_1048-10026.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1724198400&semt=ais_hybrid);
+    color: #fff;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-size: cover;
+  }
+
+  .info-btn{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 50px;
+    margin-left: 670px;
+    transition: 1s;
+}
+
+
+.info-btn:hover{
+    font-size: 22px;
+}
+
+
+.fc{
+    margin-left: 1300px;
+    margin-top: 60px;
+    height: 20px;
+    position: absolute;
+}
+
+.ln{
+    margin-left:1340px;
+    margin-top: 60px;
+    height: 20px;
+    position: absolute;
+}
+
+.x{
+    margin-left: 1380px;
+    margin-top: 60px;
+    height: 20px;
+    position: absolute;
+}
+
+.rt{
+    margin-top: 40px;
+    margin-left: 60px;
+    position: absolute;
+    color: black;
+    font-weight: bold;
+}
+
+.mail{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 80px;
+    height: 20px;
+    position: absolute;
+}
+
+
+.mail-info{
+    color: black;
+    margin-left: 90px;
+    margin-right: 60px;
+    margin-top: 75px;
+    position: absolute;
+}
+
+.cr{
+    color: black;
+    margin-left: 1280px;
+    margin-right: 60px;
+    margin-top: 90px;
+    position: absolute;
+}

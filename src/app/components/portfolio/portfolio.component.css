@@ -1,0 +1,40 @@
+.port{
+     margin: 0 ;
+    background-image: url(https://t4.ftcdn.net/jpg/02/62/04/71/360_F_262047156_Hy2QtNB52oR2DETOAcjIjB3FhaqCBjUI.jpg);
+    background-size: cover;
+    padding-bottom: 150px;
+}
+
+
+.card{
+    margin-left: 45px;
+    display:inline-block;
+    width: 250px;
+}
+
+
+.card-cont{
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+.card-body{
+    height: 200px;
+    background-image: url(https://img.freepik.com/free-vector/grunge-paper-background_1048-10026.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1724198400&semt=ais_hybrid);
+    transition: 0.5s;
+}
+.card-body:hover{
+    height: 200px;
+    background-color: antiquewhite;
+    box-shadow: 10px 10px 15px rgba(255, 255, 255, 0.6);
+    cursor: pointer;
+}
+
+
+
+.card-title{
+
+    padding-top: 50px;
+  
+
+}
